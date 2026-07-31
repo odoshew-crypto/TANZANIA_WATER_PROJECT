@@ -1,4 +1,5 @@
 # Tanzania Water Pump Status Prediction API
+# IT RUNS PUBLICLY HERE ==> Available at your primary URL https://tanzania-water-project.onrender.com
 
 A Machine Learning-powered REST API built with **FastAPI** to predict the operational status of water pumps in Tanzania. The project uses a trained classification model to determine whether a water point is:
 
