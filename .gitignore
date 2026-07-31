@@ -1,0 +1,6 @@
+tzwater/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.vs/
+.env
